@@ -29,7 +29,7 @@
 <h2> Replaced object </h2>
 
 <img src="switch.png" alt="switch">
-<input>radio</input> 
+<input type="range"> 
 
             <h3> Hypertext link</h3>
             <a href="https://wwww.google.com">
