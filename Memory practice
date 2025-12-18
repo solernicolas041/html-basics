@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<lang=en_US> WRONG IT WAS </lang>html lang="en-US">
+
+<head>
+
+    META IS WRONG IT WAS </meta charset="UTF-8">
+    NO TITLE ? 
+    <meta>
+</meta>
+</head>
+    <body>
+        <a href="https://wwww.google.com"> 
+    Aller Sur Google.com
+    WRONG HERE FORGOT TO CLOSE THE tag </a>
+<h1> Memory Practice</h1>
+    <p> Yesterday, I wrote <em>emphasized content</em> and <strong>strong content</strong></p>
+        <h2> I did leanr how to to a list
+            <p><em><strong> Here is an overview</strong></em></p>
+
+<ul>
+    <li> The DOM (Document Operation Model) is the structure</li>
+        <li> The document has to start with the type of document "<! DOCTYPE html >"</li>
+            <li> Secondly we need to mention the language Something like "lang=en_US"</li>
+                <li> Then we have to start with the Header < header > < /header ></li>
+                <li> This bullet point list has to start and finish with "ul" "/ul"
+                </ul>
+
+
+<h2> Replaced object </h2>
+
+<img src="switch.png" alt="switch">
+<input>radio</input> 
+
+            <h3> Hypertext link</h3>
+            <a href="https://wwww.google.com">
+                Aller sur Google
+
+
+                <h3>Attributes</h3>
+
+            <p> Attributes are important and modify the element, I understood they can play a role with jscode</p>
+    </body>
+    </html>
