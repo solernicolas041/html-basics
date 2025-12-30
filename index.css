@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+body{
+  background-color: antiquewhite;
+
+}
+
+h1{
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: capitalize;
+  size: 16px;
+font-family: 'roboto', sans-serif;
+color: rgb(58, 136, 215);
+}
+
+main{
+  min-height: 500px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 20px;
+  padding: 20px 20px 20px 20px;
+  margin: 0 auto;
+  box-shadow: 20px 20px 50px grey;
+}
+
+h2{
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'roboto condensed', sans-serif;
+  text-decoration: underline;
+}
+.flexbox{
+  border: 2px solid rgb(50, 51, 52);
+  border-radius: 10px
+  padding: 10px;
+  margin-top: 20px;
+}
+
+/* Flexbox pour les listes non ordonnees */
+/* display flex pour activer le flexbox */
+/* Sert a repartir les elements sur la page */
+
+.flexbox ul{
+  display: flex;
+  justify-content: space-evenly;
+  align-items: normal;
+  padding: 0px;
+
+}
+.flexbox li{
+  list-style-type: none;
+  height : 160px
+  width : 120px;
+  /* Centrer le texte */
+  text-align: center;
+  margin: 0 10px 0 10px;
+  padding: 20px;
+  background-color: lightblue;
+  border-radius: 10px;
+  box-shadow : 5px 5px 15px grey;
+  /* Centrer un unique element verticalement et horizontalement */
+  display : flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+
+
+/* Flexbox sert a repartir equitablement les elements dans un container */
+
+section{
+  min-height: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
